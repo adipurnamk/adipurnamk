@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - Telegram : [@adipurnamk](https://t.me/adipurnamk)
   - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
+  
+<!--
+github readme stat 
+Credit: https://github.com/anuraghazra/github-readme-stats#github-stats-card
+-->
