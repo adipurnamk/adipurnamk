@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 [![adipurnamk's github stats](https://github-readme-stats.vercel.app/api?username=adipurnamk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
