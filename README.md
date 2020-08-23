@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![adipurnamk's github stats](https://github-readme-stats.vercel.app/api?username=adipurnamk&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![adipurnamk's github stats](https://github-readme-stats.vercel.app/api?username=adipurnamk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: 
   - Telegram : @adipurnamk](https://t.me/adipurnamk)
   - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
