@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning Python, Django, Data Analysis, and Google IT Support
 - 💬 Asked Google about anything :sweat_smile:
-- ⚡ Fun fact: swag hunter :satisfied:
+- ⚡ Fun fact: free-swag hunter :satisfied:
 - 📫 How to reach me: 
   - Telegram : [@adipurnamk](https://t.me/adipurnamk)
   - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
