@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
@@ -16,9 +15,10 @@ Here are some ideas to get you started:
 <!-- [![adipurnamk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adipurnamk)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Python, Network and IT Support
-- 💬 Asked Google about anything :sweat_smile:
-- ⚡ Fun fact: free-swag hunter :satisfied:
+- 🌱 I’m currently learning Python, Flask and Azure. GNU/Linux as always.
+- 🔭 I’m currently working on Icon+ as IT Support Technician
+- 💬 Asked Google about anything
+- ⚡ Fun fact: free-swag hunter
 - 📫 How to reach me: 
   - Telegram : [@adipurnamk](https://t.me/adipurnamk)
   - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
