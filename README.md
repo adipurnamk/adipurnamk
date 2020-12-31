@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Python, Flask and Azure. GNU/Linux as always.
-- 🔭 I’m currently working on Icon+ as IT Support Technician
+- 🔭 I’m currently working on Udacity Cloud Computing Challenge Course
 - 💬 Asked Google about anything
 - ⚡ Fun fact: free-swag hunter
 - 📫 How to reach me: 
