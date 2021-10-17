@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
+- 💬 Ask me about anything, please.
 
 -->
 
@@ -15,9 +16,8 @@ Here are some ideas to get you started:
 <!-- [![adipurnamk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adipurnamk)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Python, Flask and Azure. GNU/Linux as always.
-- 🔭 I’m currently working on Udacity Cloud Computing Challenge Course
-- 💬 Asked Google about anything
+- 🌱 I’m currently learning Google Cloud and GNU/Linux.
+- 🔭 I’m currently working on project at Nodeflux
 - ⚡ Fun fact: free-swag hunter
 - 📫 How to reach me: 
   - Telegram : [@adipurnamk](https://t.me/adipurnamk)
