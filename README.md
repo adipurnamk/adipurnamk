@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipurnamk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Google Cloud and GNU/Linux.
-- 🔭 I’m currently working on project at Nodeflux
+<!-- - 🔭 I’m currently working on project at Nodeflux -->
 - ⚡ Fun fact: free-swag hunter
 - 📫 How to reach me: 
   - Telegram : [@adipurnamk](https://t.me/adipurnamk)
