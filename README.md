@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: free-swag hunter
 - 📫 How to reach me: 
 <!-- -   - Telegram : [@adipurnamk](https://t.me/adipurnamk) -->
-  - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
+    - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
   
 <!--
 github readme stats
