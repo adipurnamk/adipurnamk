@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on project at Nodeflux -->
 - ⚡ Fun fact: free-swag hunter
 - 📫 How to reach me: 
-  - Telegram : [@adipurnamk](https://t.me/adipurnamk)
+<!-- -   - Telegram : [@adipurnamk](https://t.me/adipurnamk) -->
   - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
   
 <!--
