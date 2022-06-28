@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!-- Telegram Profile and Profile view count -->
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40adipurnamk-9cf?style=plastic&logo=telegram)](https://t.me/adipurnamk) ![](https://komarev.com/ghpvc/?username=adipurnamk)
+
 <!--
 **adipurnamk/adipurnamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
