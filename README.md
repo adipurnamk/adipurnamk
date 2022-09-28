@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Google Cloud and GNU/Linux.
 <!-- - 🔭 I’m currently working on project at Nodeflux -->
-- ⚡ Fun fact: free-swag hunter
+- ⚡ Fun fact: swag hunter
 - 📫 How to reach me: 
   - LinkedIn : [adipurnamk](https://www.linkedin.com/in/adipurnamk/)
 <!-- -   - Telegram : [@adipurnamk](https://t.me/adipurnamk) -->
